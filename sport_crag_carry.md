@@ -11,7 +11,7 @@ This is the way I started with. I have a North Face Terra 45 pack that I use whe
 
 ### Disadvantages
 * Difficult to grab just one thing
-** Pack is a toploader, so no way to access stuff in the middle
+   * Pack is a toploader, so no way to access stuff in the middle
 * Difficult to pack everything in (again, toploader)
 * Pack is heavy
 
