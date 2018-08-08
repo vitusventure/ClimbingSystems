@@ -2,7 +2,7 @@
 I have spent a lot of time thinking about and researching different ways to carry gear to the crag (mostly because my day job is kinda boring, so I have the time for such inane musings). While this is a minor point for many, I like to think about the best ways to optimize these kinds of things.
 
 ## Method 1: The single big pack
-This is the way I started with. I have a North Face Terra 45 pack that I use when backpacking. I purchased a Trango Cord Trapper rope tarp (which also doubles as a minimal rope bag), and packed the rope down in the bottom of the pack. Next came my sport rack, with everything attached to a 60cm sling. On top of that, shoes, harness, food, then finally helmet on top. Other items went in small pouches on the outside of the pack.
+This is the way I started with. I have a North Face Terra 40 pack that I use when backpacking. I purchased a Trango Cord Trapper rope tarp (which also doubles as a minimal rope bag), and packed the rope down in the bottom of the pack. Next came my sport rack, with everything attached to a 60cm sling. On top of that, shoes, harness, food, then finally helmet on top. Other items went in small pouches on the outside of the pack.
 
 ### Advantages
 * Everything was inside a pack, nothing to get hung up when hiking
