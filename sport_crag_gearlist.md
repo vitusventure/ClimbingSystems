@@ -5,6 +5,7 @@ Here is a list of the gear I usually bring with me when heading up to a sport cr
 I usually carry two belay devices (GriGri2 for belaying, ATC Guide for rappelling). I like the autolocking function of the GriGri, but prefer to rappel with a more traditional tube device. For most of my cragging, the approaches are short, so the extra weight is not an issue. However, if the approaches were longer, I would ditch the GriGri2.
 
 ## Climbing Gear
+* Harness (Edelrid Jay)
 * 12 Quickdraws (Black Diamond Freewire, 12cm)
 * 2 alpine draws [I use these mostly to extend anchors when needed] (CAMP Photon Wire with 60cm Mammut Contact 8.0 sling)
 * Rope (Edelrid Boa Eco, 9.8mm, non-dry)
@@ -26,7 +27,7 @@ Most climbs that I frequent require rappelling after cleaning, rather than lower
 
 ## Safety Gear
 * Helmet (Petzl Boreo)
-* First Aid Kit (REI Weekend backpacking kit, with added matches and flashlight)
+* First Aid Kit (REI Weekend backpacking kit, with added matches, flashlight, and toilet paper)
 * Cell Phone (Nokia 3310)
 
 ## Other items
