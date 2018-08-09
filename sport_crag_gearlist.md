@@ -12,6 +12,7 @@ I usually carry two belay devices (GriGri2 for belaying, ATC Guide for rappellin
 * Locking D carabiner [For attaching belay device] (Petzl Spirit Screwlock)
 * Edelrid Ohm [My usual partner is heavier than me, so this is a lifesaver when he leads]
 * Climbing shoes (Scarpa Force V)
+* Chalk bag
 
 ## Cleaning/Rappelling Gear
 Most climbs that I frequent require rappelling after cleaning, rather than lowering
